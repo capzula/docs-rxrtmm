@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-od4upg.salamcuan.online/sitemap.xml
